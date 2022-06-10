@@ -528,4 +528,11 @@ main{
         line-height: 1.8rem;
         color: var(--black);
     }
+    .plan-card--ca span{
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background-image: url(./Assets/icons/arrow-right.svg);
+        vertical-align: text-bottom;
+    } 
 
