@@ -554,4 +554,11 @@ main{
         line-height: 1.8rem;
         list-style: none;
     }
-
+    .left li{
+        margin: 10px 0;
+    }
+    
+    .left a{
+        text-decoration: none;
+        color:var(--just-white);
+    } 
