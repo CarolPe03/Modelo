@@ -541,4 +541,17 @@ main{
         height: 150px;
         background-color: var(--bitcoin-orang);
     }
+    footer section{
+        display:flex;
+        width: 50%;
+        justify-content:center;
+        align-items:center;
+    }
+    
+    footer .left ul{
+        font-size: 1.4rem;
+        font-weight: 500;
+        line-height: 1.8rem;
+        list-style: none;
+    }
 
